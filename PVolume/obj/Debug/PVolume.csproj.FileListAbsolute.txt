@@ -1,0 +1,9 @@
+D:\PVolume\bin\Debug\PVolume.exe.config
+D:\PVolume\bin\Debug\PVolume.exe
+D:\PVolume\bin\Debug\PVolume.pdb
+D:\PVolume\obj\Debug\PVolume.csprojAssemblyReference.cache
+D:\PVolume\obj\Debug\PVolume.Form1.resources
+D:\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+D:\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+D:\PVolume\obj\Debug\PVolume.exe
+D:\PVolume\obj\Debug\PVolume.pdb

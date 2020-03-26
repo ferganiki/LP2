@@ -1,0 +1,9 @@
+D:\Atividade4\obj\Debug\Atividade4.csprojAssemblyReference.cache
+D:\Atividade4\obj\Debug\Atividade4.Form1.resources
+D:\Atividade4\obj\Debug\Atividade4.Properties.Resources.resources
+D:\Atividade4\obj\Debug\Atividade4.csproj.GenerateResource.cache
+D:\Atividade4\bin\Debug\Atividade4.exe.config
+D:\Atividade4\bin\Debug\Atividade4.exe
+D:\Atividade4\bin\Debug\Atividade4.pdb
+D:\Atividade4\obj\Debug\Atividade4.exe
+D:\Atividade4\obj\Debug\Atividade4.pdb

@@ -1,0 +1,13 @@
+C:\LP2\Atividade5REAL\bin\Debug\Atividade5REAL.exe.config
+C:\LP2\Atividade5REAL\bin\Debug\Atividade5REAL.exe
+C:\LP2\Atividade5REAL\bin\Debug\Atividade5REAL.pdb
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.csprojAssemblyReference.cache
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.frmPrincipal.resources
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.Properties.Resources.resources
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.csproj.GenerateResource.cache
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.exe
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.pdb
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.frmExercício2.resources
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.frmExercício3.resources
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.frmExercício4.resources
+C:\LP2\Atividade5REAL\obj\Debug\Atividade5REAL.frmExercício5.resources

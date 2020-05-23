@@ -1,0 +1,13 @@
+C:\LP2\Atividade6\obj\Debug\Atividade6.csprojAssemblyReference.cache
+C:\LP2\Atividade6\obj\Debug\Atividade6.frmMenu.resources
+C:\LP2\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\LP2\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\LP2\Atividade6\bin\Debug\Atividade6.exe.config
+C:\LP2\Atividade6\bin\Debug\Atividade6.exe
+C:\LP2\Atividade6\bin\Debug\Atividade6.pdb
+C:\LP2\Atividade6\obj\Debug\Atividade6.frmExercício1.resources
+C:\LP2\Atividade6\obj\Debug\Atividade6.exe
+C:\LP2\Atividade6\obj\Debug\Atividade6.pdb
+C:\LP2\Atividade6\obj\Debug\Atividade6.frmExercício2.resources
+C:\LP2\Atividade6\obj\Debug\Atividade6.frmExercício3.resources
+C:\LP2\Atividade6\obj\Debug\Atividade6.frmExercício4.resources

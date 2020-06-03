@@ -1,8 +1,0 @@
-C:\LP2\Atividade7\obj\Debug\Atividade7.Form1.resources
-C:\LP2\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
-C:\LP2\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.cache
-C:\LP2\Atividade7\bin\Debug\Atividade7.exe.config
-C:\LP2\Atividade7\bin\Debug\Atividade7.exe
-C:\LP2\Atividade7\bin\Debug\Atividade7.pdb
-C:\LP2\Atividade7\obj\Debug\Atividade7.exe
-C:\LP2\Atividade7\obj\Debug\Atividade7.pdb
